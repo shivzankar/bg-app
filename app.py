@@ -7,12 +7,12 @@ COLOR = os.getenv("APP_COLOR", "blue")
 THEMES = {
     "blue": {
         "name": "Blue", "header": "#1a56db", "heading": "#2f3e8c",
-        "bg": "linear-gradient(180deg, #eef2f9 0%, #e3e9f3 100%)",
+        "bg": "linear-gradient(180deg, #93c5fd 0%, #3b82f6 100%)",
         "badge": "BLUE - STABLE VERSION", "version": "1.0",
     },
     "green": {
         "name": "Green", "header": "#16a34a", "heading": "#166534",
-        "bg": "linear-gradient(180deg, #eef8f1 0%, #e1f1e6 100%)",
+        "bg": "linear-gradient(180deg, #86efac 0%, #22c55e 100%)",
         "badge": "GREEN - NEW VERSION", "version": "2.0",
     },
 }
